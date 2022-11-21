@@ -76,3 +76,5 @@ untuk menginput **Nilai Akhir** yang di ambil dari perhitungan 3 komponen nilai.
 Bila dijalankan maka program akan menghasilkan output seperti dibawah ini
 
 ![img 2](SS/Output2.PNG)
+
+# selesai
