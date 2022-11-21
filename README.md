@@ -24,7 +24,9 @@ sedangkan **PrettyTable** berfungsi untuk membungkus semua list.
 
 Deklarasi `*a = 0*` untuk membuat nomor pada isi table.
 
-3. Membuat program perulangan menggunakan
+![img 2](SS/Output.PNG)
+
+# Membuat program perulangan menggunakan
 
  ```py  while True: ```
 
@@ -53,7 +55,6 @@ deklarasi list dan Memasukkan Input Dengan Fungsi `input()` untuk menulis nama y
 
 ```{:.2f}".format((d*.30) + (e*.35) + (f*.35)) ```
 
-![img 2](SS/Output.PNG)
 
 untuk menginput **Nilai Akhir** yang di ambil dari perhitungan 3 komponen nilai.
 
@@ -75,6 +76,6 @@ untuk menginput **Nilai Akhir** yang di ambil dari perhitungan 3 komponen nilai.
 
 Bila dijalankan maka program akan menghasilkan output seperti dibawah ini
 
-![img 2](SS/Output2.PNG)
+![img 2](SS/Output2..PNG)
 
 # selesai
