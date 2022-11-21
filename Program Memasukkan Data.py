@@ -1,4 +1,4 @@
-from prettytable import prettyTable
+from prettytable import prettytable
 
 print("Program Input Data Mahasiswa")
 print()
