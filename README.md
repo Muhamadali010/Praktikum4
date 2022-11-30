@@ -2,4 +2,3 @@
 
 TUTOT TUTOR BANG........:D
 
-w juga belum
