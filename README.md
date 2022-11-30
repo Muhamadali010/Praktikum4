@@ -1,4 +1,3 @@
-# Pratikum6
+# Pratikum_6
 
-TUTOT TUTOR BANG........:D
-
+TUTOR TUTOR BANG
